@@ -8,7 +8,7 @@ Install passport
 Migrate the database
 ```php artisan migrate```
 
-To add example data in database, run:
+To add example data in the database, run:
 ```php artisan db:seed```
 
 
