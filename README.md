@@ -11,4 +11,5 @@ Migrate the database
 To add example data in database, run:
 ```php artisan db:seed```
 
+
 API-documentation can be found on the start page (welcome.blade.php)
